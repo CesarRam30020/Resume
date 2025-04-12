@@ -1,0 +1,108 @@
+{
+  "name": "César Ramírez",
+  "occupation": "Web Developer",
+  "address": "Francisco J. Macín, 5464, Guadalajara, Jal. 45070, México",
+  "phoneNumber": "+52 3318610706",
+  "emailAddress": "Cesar.Ram.30020@gmail.com",
+  "profile": {
+    "title": "Profile",
+    "data": "Hardworking computer engineering student aiming towards professional growth. Bringing forth a motivated attitude and a variety of powerful skills, with 2+ years of experience in Web Development with Laravel, PHP and JavaScript."
+  },
+  "education": {
+    "title": "Education",
+    "data": {
+      "school": "CUCEI",
+      "time": "Aug 2020 - Current",
+      "graduation": "Expected graduation July 2025",
+      "city": "Guadalajara",
+      "description": "<ul><li><b>GPA:</b> 90.93</li><li><b>Relevant coursework:</b> Database systems, Web development.</li></ul>"
+    }
+  },
+  "softSkills": {
+    "title": "Soft Skills",
+    "data": "<ul><li><b>Fast learner: </b>Quickly adapts to new technologies and methodologies.</li><li><b>Problem solving: </b>Capable of identify and analyze issues and solve them.</li><li><b>Communication: </b>Capable of explaining complex ideas to diverse audiences.</li><li><b>Time management: </b>Capable of managing time efficiently.</li><li><b>Teamwork: </b>Collaborative team player with a focus on fostering positive relationships.</li></ul>"
+  },
+  "hardSkills": {
+    "title": "Hard Skills",
+    "data": [
+      {
+        "title": "Laravel",
+        "description": "Experienced"
+      },
+      {
+        "title": "PHP",
+        "description": "Experienced"
+      },
+      {
+        "title": "Databases",
+        "description": "Experienced"
+      },
+      {
+        "title": "JavaScript",
+        "description": "Experienced"
+      },
+      {
+        "title": "HTML",
+        "description": "Experienced"
+      },
+      {
+        "title": "Back-end development",
+        "description": "Skillful"
+      },
+      {
+        "title": "Front-end development",
+        "description": "Beginner"
+      },
+      {
+        "title": "Vue.js",
+        "description": "Beginner"
+      },
+      {
+        "title": "CSS",
+        "description": "Beginner"
+      },
+      {
+        "title": "Node.js",
+        "description": "Beginner"
+      }
+    ]
+  },
+  "workHistory": {
+    "title": "Work History",
+    "data": [
+      {
+        "position": "Web developer",
+        "time": "Apr 2022 - Current",
+        "at": "MTSoftech",
+        "address": "Guadalajara, Jalisco, Mexico",
+        "remote": true,
+        "description": "<ul><li>Coded websites from scratch using Laravel, HTML, CSS, Bootstrap, JavaScript, Jquery, JSON and so on.</li><li>Enhanced user experience by implmenting responsive web designs.</li><li>Integrated third-party APIs to extend application functionalities, offering users more comprehensive experience.</li><li>Planned website development using HTML, JavaScript, AJAX and JSON coding.</li><li>Developed custom web applications to satisfied client needs.</li></ul>"
+      },
+      {
+        "position": "Web developer intern",
+        "time": "Sep 2023 - Mar 2024",
+        "at": "Secretaria general de la UdeG",
+        "address": "Guadalajara, Jalisco, Mexico",
+        "remote": false,
+        "description": "<ul><li>Developed user interfaces with Vue.js, HTML, Vuetify and JavaScript.</li><li>Created custom HTML, JavaScript and Vue components for existing websites.</li><li>Developed new features for existing websites and applications.</li></ul>"
+      }
+    ]
+  },
+  "languages": {
+    "title": "Languages",
+    "data": [
+      {
+        "title": "Spanish",
+        "description": "Native Speaker"
+      },
+      {
+        "title": "English",
+        "description": "B1"
+      }
+    ]
+  },
+  "hobbies": {
+    "title": "Hobbies",
+    "data": "<ul><li><b>Playing Video Games: </b>I enjoy playing video games while analyzing how their worlds are built. It sparks my curiosity about game mechanics and inspires me to explore how I could recreate similar systems on my own.</li><li><b>Reading: </b>I like reading fantasy and cosmic horror, which stimulates my imagination and helps me think creatively.</li><li><b>Listening to Music: </b>I often listen to music while programming, as it helps me stay focused and relaxed during complex tasks.</li></ul>"
+  }
+}

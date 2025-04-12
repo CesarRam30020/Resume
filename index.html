@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+  <title>Resumé</title>
+</head>
+<body>
+  <div id="main-wrapper" style="overflow:auto;">
+    <div class="page-wrapper">
+      <div class="page-breadcrumb">
+        <div class="row">
+          <div class="col-12">
+
+            <div class="row">
+              <div class="col-12">
+                <div class="card">
+                  <div class="card-body">
+                    <div class="row" id="i18n-root">
+
+                      <div class="container py-4">
+                        <div class="row align-items-center">
+                          <div class="col-12 text-end">
+                            <a onclick="changeLanguage('es')" style="cursor: pointer;">
+                              <img src="https://flagcdn.com/w40/mx.png" alt="Español" width="30">
+                            </a>
+                            <a onclick="changeLanguage('en')" style="cursor: pointer;">
+                              <img src="https://flagcdn.com/w40/us.png" alt="English" width="30">
+                            </a>
+                          </div>
+                          <div class="col-6 offset-6 text-end" data-i18n="emailAddress">
+                            <!-- Everything abot EmailAddress -->
+                          </div>
+
+                          <div class="col-6 offset-6 text-end" data-i18n="phoneNumber">
+                            <!-- Everything abot PhoneNumber -->
+                          </div>
+
+                          <h2 class="col-6 name" data-i18n="name">
+                            <!-- Everything abot Name -->
+                          </h2>
+
+                          <div class="col-6 text-end" data-i18n="address">
+                            <!-- Everything abot Address -->
+                          </div>
+                        </div>
+
+                        <hr class="my-1" class="divider">
+
+                        <div class="row align-items-center">
+                          <p class="text-uppercase" style="letter-spacing: 2px;" data-i18n="occupation">
+                            <!-- Everything abot Occupation -->
+                          </p>
+                        </div>
+                      </div>
+
+                      <div class="col-12 row" data-i18n="profile">
+                        <!-- Everything about Profile -->
+                      </div>
+
+                      <div class="col-12 mt-5 row" data-i18n="education">
+                        <!-- Everything about Education -->
+                      </div>
+
+                      <div class="col-12 mt-5 row" data-i18n="workHistory">
+                        <!-- Everything about Work History -->
+                      </div>
+
+                      <div class="col-12 mt-5 row" data-i18n="hardSkills">
+                        <!-- Everything about Hard Skills -->
+                      </div>
+
+                      <div class="col-12 mt-5 row" data-i18n="softSkills">
+                        <!-- Everything about Soft Skills -->
+                      </div>
+
+                      <div class="col-12 mt-5 row" data-i18n="languages">
+                        <!-- Everything about Languages -->
+                      </div>
+
+                      <div class="col-12 mt-5 row" data-i18n="hobbies">
+                        <!-- Everything about Hobbies -->
+                      </div>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="js/index.js"></script>
+</body>
+</html>

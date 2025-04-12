@@ -1,0 +1,108 @@
+{
+  "name": "César Ramírez",
+  "occupation": "Desarrollador Web",
+  "address": "Francisco J. Macín, 5464, Guadalajara, Jal. 45070, México",
+  "phoneNumber": "+52 3318610706",
+  "emailAddress": "Cesar.Ram.30020@gmail.com",
+  "profile": {
+    "title": "Perfil",
+    "data": "Estudiante de ingeniería en computación con espíritu de trabajo y aspiración­ de crecimiento profesional. Con actitud motivada y una variedad de habilidades solidas, con más de dos años de experiencia en desarrollo web con Laravel, PHP y JavaScript."
+  },
+  "education": {
+    "title": "Educación",
+    "data": {
+      "school": "CUCEI",
+      "time": "Ago 2020 - Actualmente",
+      "graduation": "Fecha de graduación esperada Julio 2025",
+      "city": "Guadalajara",
+      "description": "<ul><li><b>Promedio:</b> 90.93</li><li><b>Cursos relevantes:</b> Sistemas de bases de datos, Desarrollo web.</li></ul>"
+    }
+  },
+  "softSkills": {
+    "title": "Soft Skills",
+    "data": "<ul><li><b>Aprendizaje rápido: </b>Me adapto con facilidad a nuevas tecnologías y metodologías de trabajo.</li><li><b>Resolución de problemas: </b>Capaz de identificar, analizar y resolver errores.</li><li><b>Comunicación: </b>Capaz de explicar ideas complejas a diversa variedad de audiencias.</li><li><b>Manejo del tiempo: </b>Capaz de manejar mi tiempo con eficiencia.</li><li><b>Trabajo en equipo: </b>Trabajador colaborativo con un enfoque en mantener relaciones sanas y positivas.</li></ul>"
+  },
+  "hardSkills": {
+    "title": "Hard Skills",
+    "data": [
+      {
+        "title": "Laravel",
+        "description": "Experimentado"
+      },
+      {
+        "title": "PHP",
+        "description": "Experimentado"
+      },
+      {
+        "title": "Bases de datos",
+        "description": "Experimentado"
+      },
+      {
+        "title": "JavaScript",
+        "description": "Experimentado"
+      },
+      {
+        "title": "HTML",
+        "description": "Experimentado"
+      },
+      {
+        "title": "Desarrollo Back-end",
+        "description": "Habilidoso"
+      },
+      {
+        "title": "Desarrollo Front-end",
+        "description": "Principiante"
+      },
+      {
+        "title": "Vue.js",
+        "description": "Principiante"
+      },
+      {
+        "title": "CSS",
+        "description": "Principiante"
+      },
+      {
+        "title": "Node.js",
+        "description": "Principiante"
+      }
+    ]
+  },
+  "workHistory": {
+    "title": "Historial de trabajo",
+    "data": [
+      {
+        "position": "Desarrollador web",
+        "time": "Abr 2022 - Actualmente",
+        "at": "MTSoftech",
+        "address": "Guadalajara, Jalisco, México",
+        "remote": true,
+        "description": "<ul><li>Creación de sitios web desde cero con tecnologías como; Laravel, HTML, CSS, Bootstrap, JavaScript, Jquery, JSON y más.</li><li>Mejora de la experiencia del usuario implementando webs responsivos.</li><li>Integración de APIs de terceros para extender las funcionalidades de la aplicación, ofreciendo así a los usuarios una experiencia mas integral.</li><li>Planeación de sitios web utilizando HTML, JavaScript, AJAX y JSON.</li><li>Desarrollo de aplicaciones a medida para satisfacer las necesidades del cliente.</li></ul>"
+      },
+      {
+        "position": "Desarrollador web pasante",
+        "time": "Sep 2023 - Mar 2024",
+        "at": "Secretaria general de la UdeG",
+        "address": "Guadalajara, Jalisco, México",
+        "remote": false,
+        "description": "<ul><li>Desarrollo de interfaces de usuario con Vue.js, HTML, Vuetify y JavaScript.</li><li>Desarrollo de archivos HTML, JavaScript y componentes Vue a la medida para sitios web existentes.</li><li>Desarrollo de nuevas funcionalidades para sitios web previamente existentes.</li></ul>"
+      }
+    ]
+  },
+  "languages": {
+    "title": "Lenguajes",
+    "data": [
+      {
+        "title": "Español",
+        "description": "Lengua materna"
+      },
+      {
+        "title": "Ingles",
+        "description": "B1"
+      }
+    ]
+  },
+  "hobbies": {
+    "title": "Pasatiempos",
+    "data": "<ul><li><b>Jugar videojuegos: </b>Me gusta jugar videojuegos y analizar como se construyeron esos mundos. Esto dispara mi curiosidad acerca de las mecánicas de juego y me inspira a tratar de replicarlos por mi mismo.</li><li><b>Leer:</b> Me gusta leer fantasía y horror cósmico, cosa que estimula mi imaginación y me ayuda a mantenerme creativo.</li><li><b>Escuchar música:</b> Constantemente escucho música mientras programo ya que me ayuda a mantenerme relajado durante tareas complejas.</li></ul>"
+  }
+}

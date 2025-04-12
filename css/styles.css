@@ -1,0 +1,124 @@
+:root {
+  --main-color: #5A2A83;
+  --main-dark-1: #4B2370;
+  --main-dark-2: #3C1C5D;
+  --main-dark-3: #2E1549;
+
+  --main-light-1: #7642A0;
+  --main-light-2: #9766B7;
+  --main-light-3: #B891CF;
+  --main-light-4: #D6BCE3;
+  --main-light-5: #F0E3F7;
+
+  --main-bg-color: #ffffff;
+}
+
+body {
+  background-color: var(--main-bg-color);
+  font-family: 'Georgia', serif;
+  overflow-x: hidden;
+}
+
+.divider {
+  display: flex;
+  align-items: center;
+  /* width: 80%; Ajusta el ancho al gusto */
+  color: var(--main-color); /* Morado similar a la imagen */
+}
+
+.divider::before,
+.divider::after {
+  content: "";
+  flex: 1;
+  border-bottom: 1px solid var(--main-color);
+  margin: 0 10px;
+}
+
+.divider-text {
+  font-size: 16px; /* Tamaño de fuente similar */
+  letter-spacing: 1px; /* Espaciado para que se vea más fino */
+  text-transform: uppercase; /* En la imagen se ve en mayúsculas */
+}
+
+.custom-card {
+  margin: 5%;
+}
+
+#main-wrapper {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.page-wrapper {
+  background: #f9fbfd;
+  position: relative;
+  transition: 0.2s ease-in;
+  display: block;
+  box-shadow: 0px 3px 9px 0px rgba(162, 176, 190, 0.15);
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.page-wrapper > .container-fluid {
+  padding: 35px;
+  min-height: calc(100vh - 210px);
+}
+
+.page-breadcrumb {
+  padding: 30px 35px 0;
+}
+.page-breadcrumb .breadcrumb {
+  background: transparent;
+  font-size: .875rem;
+}
+.page-breadcrumb .breadcrumb .breadcrumb-item + .breadcrumb-item::before {
+  color: #ced4da;
+  font-size: 11px;
+}
+.page-breadcrumb .breadcrumb .breadcrumb-item a {
+  color: #8392a5;
+}
+
+.card-bg {
+  background-color: var(--main-light-3);
+  border-radius: 25px;
+}
+
+.name {
+  color: var(--main-dark-1);
+  letter-spacing: 5px;
+}
+
+.timeline-entry {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  white-space: nowrap;
+}
+
+.timeline-entry .left {
+  margin-right: 8px;
+}
+
+.timeline-entry .right {
+  margin-left: 8px;
+}
+
+.timeline-entry .dots {
+  flex-grow: 1;
+  border-bottom: 2px dotted #000;
+  height: 1px;
+  position: relative;
+  align-items: flex;
+}
+
+.fade-out {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.fade-in {
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+}
