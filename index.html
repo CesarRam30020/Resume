@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <title>Resumé</title>
 </head>
 <body>
@@ -18,18 +19,20 @@
               <div class="col-12">
                 <div class="card">
                   <div class="card-body">
+                    <div class="row">
+                      <div class="col-12 text-end">
+                        <a onclick="changeLanguage('es')" style="cursor: pointer;">
+                          <img src="https://flagcdn.com/w40/mx.png" alt="Español" width="30">
+                        </a>
+                        <a onclick="changeLanguage('en')" style="cursor: pointer;">
+                          <img src="https://flagcdn.com/w40/us.png" alt="English" width="30">
+                        </a>
+                      </div>
+                    </div>
                     <div class="row" id="i18n-root">
 
                       <div class="container py-4">
                         <div class="row align-items-center">
-                          <div class="col-12 text-end">
-                            <a onclick="changeLanguage('es')" style="cursor: pointer;">
-                              <img src="https://flagcdn.com/w40/mx.png" alt="Español" width="30">
-                            </a>
-                            <a onclick="changeLanguage('en')" style="cursor: pointer;">
-                              <img src="https://flagcdn.com/w40/us.png" alt="English" width="30">
-                            </a>
-                          </div>
                           <div class="col-6 offset-6 text-end" data-i18n="emailAddress">
                             <!-- Everything abot EmailAddress -->
                           </div>

@@ -1,5 +1,5 @@
 let translations;
-let lang = 'es'; // o 'es'
+let lang = 'en'; // o 'es'
 
 const loadTranslations = async () => {
   try {

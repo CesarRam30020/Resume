@@ -1,12 +1,12 @@
 {
   "name": "César Ramírez",
   "occupation": "Desarrollador Web",
-  "address": "Francisco J. Macín, 5464, Guadalajara, Jal. 45070, México",
-  "phoneNumber": "+52 3318610706",
-  "emailAddress": "Cesar.Ram.30020@gmail.com",
+  "address": "Francisco J. Macín, 5464, Guadalajara, Jal. 45070, México <i class='fas fa-map-marker-alt'></i>",
+  "phoneNumber": "+52 3318610706 <i class='fas fa-phone'></i>",
+  "emailAddress": "Cesar.Ram.30020@gmail.com <i class='fas fa-envelope'></i>",
   "profile": {
     "title": "Perfil",
-    "data": "Estudiante de ingeniería en computación con espíritu de trabajo y aspiración­ de crecimiento profesional. Con actitud motivada y una variedad de habilidades solidas, con más de dos años de experiencia en desarrollo web con Laravel, PHP y JavaScript."
+    "data": "Estudiante de ingeniería en computación con espíritu de trabajo y aspiración de crecimiento profesional. Con actitud motivada y una variedad de habilidades solidas, con más de dos años de experiencia en desarrollo web con Laravel, PHP y JavaScript."
   },
   "education": {
     "title": "Educación",
