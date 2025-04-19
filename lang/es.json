@@ -19,11 +19,11 @@
     }
   },
   "softSkills": {
-    "title": "Soft Skills",
+    "title": "Habilidades Blandas",
     "data": "<ul><li><b>Aprendizaje rápido: </b>Me adapto con facilidad a nuevas tecnologías y metodologías de trabajo.</li><li><b>Resolución de problemas: </b>Capaz de identificar, analizar y resolver errores.</li><li><b>Comunicación: </b>Capaz de explicar ideas complejas a diversa variedad de audiencias.</li><li><b>Manejo del tiempo: </b>Capaz de manejar mi tiempo con eficiencia.</li><li><b>Trabajo en equipo: </b>Trabajador colaborativo con un enfoque en mantener relaciones sanas y positivas.</li></ul>"
   },
   "hardSkills": {
-    "title": "Hard Skills",
+    "title": "Habilidades Duras",
     "data": [
       {
         "title": "Laravel",
