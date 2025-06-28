@@ -80,7 +80,7 @@
         "at": "MTSoftech",
         "address": "Guadalajara, Jalisco, México",
         "remote": true,
-        "description": "<ul><li>Creación de sitios web desde cero con tecnologías como; Laravel, HTML, CSS, Bootstrap, JavaScript, Jquery, JSON y más.</li><li>Mejora de la experiencia del usuario implementando webs responsivos.</li><li>Integración de APIs de terceros para extender las funcionalidades de la aplicación, ofreciendo así a los usuarios una experiencia más integral.</li><li>Planeación de sitios web utilizando HTML, JavaScript, AJAX y JSON.</li><li>Desarrollo de aplicaciones a medida para satisfacer las necesidades del cliente.</li></ul>"
+        "description": "<ul><li>Creación de sitios web desde cero con tecnologías como; Laravel, HTML, CSS, Bootstrap, JavaScript, Jquery, JSON y más.</li><li>Mejora de la experiencia del usuario implementando webs responsivos.</li><li>Integración de APIs de terceros como Stripe y Whatsapp Business, para extender las funcionalidades de la aplicación, ofreciendo así a los usuarios una experiencia más integral.</li><li>Planeación de sitios web utilizando HTML, JavaScript, AJAX y JSON.</li><li>Desarrollo de aplicaciones a medida para satisfacer las necesidades del cliente.</li></ul>"
       },
       {
         "position": "Desarrollador web pasante",
