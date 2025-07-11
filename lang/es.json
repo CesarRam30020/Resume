@@ -12,9 +12,10 @@
     "title": "Educación",
     "data": {
       "school": "CUCEI",
+      "field": "Ingeniería en Computación",
       "time": "Ago 2020 - Actualmente",
       "graduation": "Fecha de graduación esperada Julio 2025",
-      "city": "Guadalajara",
+      "city": "Guadalajara, Jalisco",
       "description": "<ul><li><b>Promedio:</b> 91.09</li><li><b>Cursos relevantes:</b> Sistemas de bases de datos, Desarrollo web.</li></ul>"
     }
   },

@@ -47,8 +47,9 @@ const renderObject = (key, object) => {
             <span class="right">${object.data.time}</span>
           </div>
         </div>
-        <div class="col-12 col-sm-6">${object.data.graduation}</div>
+        <div class="col-12 col-sm-6">${object.data.field}</div>
         <div class="col-12 col-sm-6 text-end">${object.data.city}</div>
+        <div class="col-12 col-sm-6">${object.data.graduation}</div>
         <div class="col-12">${object.data.description}</div>
       `;
       break;
