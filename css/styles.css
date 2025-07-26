@@ -90,6 +90,12 @@ body {
   letter-spacing: 5px;
 }
 
+.occupation {
+  color: var(--main-dark-1);
+  letter-spacing: 5px;
+  font-size: 1.25rem;
+}
+
 .timeline-entry {
   display: flex;
   align-items: center;

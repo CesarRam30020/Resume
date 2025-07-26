@@ -12,9 +12,10 @@
     "title": "Education",
     "data": {
       "school": "CUCEI",
+      "field": "Computer Engineering",
       "time": "Aug 2020 - Current",
       "graduation": "Expected graduation July 2025",
-      "city": "Guadalajara",
+      "city": "Guadalajara, Jalisco",
       "description": "<ul><li><b>GPA:</b> 91.09</li><li><b>Relevant coursework:</b> Database systems, Web development.</li></ul>"
     }
   },
@@ -101,7 +102,7 @@
       },
       {
         "title": "English",
-        "description": "B1"
+        "description": "B2"
       }
     ]
   },
